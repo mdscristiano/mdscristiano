@@ -15,4 +15,4 @@
 <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div> <br/>
 
-Apaixonado por tecnologia! Não se preocupe com o desempenho no início. Faça funcionar primeiro, otimize depois, se necessário.
+Apaixonado por tecnologia! Não se preocupe com o desempenho no início. Faça funcionar primeiro, otimize depois, se necessário. 
