@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 *   **[AcademicPro](#)** - Desenvolvimento de um tutor virtual com Inteligência Artificial para auxiliar estudantes.
 *   **[FoodExpress](#)** - Sistema colaborativo de gerenciamento de delivery construído em Java.
@@ -30,7 +30,7 @@
 
 <br/>
 
-## 🛠️ Ferramentas & Tecnologias
+##  Ferramentas & Tecnologias
 
 ### Front-End
 <p>
@@ -62,7 +62,7 @@
 <br/>
 
 
-## 📊 Minhas Estatísticas
+##  Minhas Estatísticas
 
 <div align="center">
   <!-- Contador de Visitas -->
@@ -72,6 +72,16 @@
   <!-- Sequência de Commits (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdscristiano&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
   <br/><br/>
+
+  ##  Minha Atividade
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdscristiano/mdscristiano/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdscristiano/mdscristiano/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/mdscristiano/mdscristiano/output/github-snake.svg">
+  </picture>
+</div>
 
 <br/>
 <hr>
