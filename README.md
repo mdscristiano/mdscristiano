@@ -1,4 +1,4 @@
-# <img src="https://via.placeholder.com/1200x200?text=CRISTIANO+SOUZA" alt="Cristiano Souza Banner">
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,42&height=200&section=header&text=Cristiano%20Souza&fontSize=50&animation=fadeIn" width="100%" alt="Header Banner" />
 
 # Olá! Sou Cristiano Souza 👋
 
@@ -61,12 +61,17 @@
 
 <br/>
 
+
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristian0-rs&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian0-rs&layout=compact&theme=radical&hide_border=true" alt="Top Linguagens" height="170">
-</div>
+  <!-- Contador de Visitas -->
+  <img src="https://komarev.com/ghpvc/?username=mdscristiano&label=Visitas%20no%20Perfil&color=0e75b6&style=flat" alt="Contador de Visitas">
+  <br/><br/>
+
+  <!-- Sequência de Commits (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdscristiano&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
+  <br/><br/>
 
 <br/>
 <hr>
